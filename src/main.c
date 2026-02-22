@@ -1,4 +1,4 @@
-//Updated
+//Updated by Hryhoryeva
 #include <stdio.h>
 #include <string.h>
 #include "note.h"
